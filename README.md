@@ -1,0 +1,1 @@
+Developed an engaging web-based rock-paper-scissors game with infinite gameplay, allowing users to compete endlessly against the computer. Features include dynamic score tracking and clear winner displays. Implemented with HTML, CSS, and JavaScript for a seamless and enjoyable user experience.
